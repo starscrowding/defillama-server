@@ -2051,7 +2051,7 @@ const data6: Protocol[] = [
     name: "RERANGE",
     address: null,
     symbol: "-",
-    url: " ", // pending to add url https://rerange.xyz
+    url: "https://rerange.xyz",
     description: "Liquid Orders Protocol",
     chain: "Ethereum",
     logo: `${protocolIconsUrl}/rerange.jpg`,
